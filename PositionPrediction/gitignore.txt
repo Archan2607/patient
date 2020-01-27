@@ -1,0 +1,11 @@
+# byte compiled
+__pycache__/
+
+
+# data 
+**/data_classify
+**/data_train
+
+
+
+

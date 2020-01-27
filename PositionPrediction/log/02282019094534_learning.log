@@ -1,0 +1,3 @@
+02/28/2019 09:45:34 AM DEBUG : __main__ :  Start read_test_data()
+02/28/2019 09:45:34 AM ERROR : __main__ :  Test file not found 
+02/28/2019 09:45:34 AM ERROR : __main__ :  Error: File b'/home/pi/PositionPrediction/data_classify/test_data.csv' does not exist

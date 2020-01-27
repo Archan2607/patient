@@ -138,6 +138,6 @@ class Learner:
             input_fn=train_input_fn,
         )
 
-        est.export_savedmodel('saved_model', self.serving_input_receiver_fn)
+        # est.export_savedmodel('saved_model', self.serving_input_receiver_fn)
         return 1, 2
 

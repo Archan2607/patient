@@ -3,6 +3,39 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7955d0-7b54-4e7a-8f80-a4932f9de1b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/learner.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/learner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/model_dir/checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579951322.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579952604.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579952799.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579953630.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579955558.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579955758.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579955994.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/events.out.tfevents.1579957227.dimri-Ubuntu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/graph.pbtxt" beforeDir="false" afterPath="$PROJECT_DIR$/model_dir/graph.pbtxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1136.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1136.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1136.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1136.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1243.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1243.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1243.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1243.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1492.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1492.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1492.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1492.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1726.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1726.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1726.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-1726.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-978.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-978.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-978.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/model.ckpt-978.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dir/saved_model.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tflite.py" beforeDir="false" afterPath="$PROJECT_DIR$/tflite.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +50,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/pos_pred/bin/freeze_graph" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -47,7 +80,9 @@
       <workItem from="1579757233049" duration="21572000" />
       <workItem from="1579843836730" duration="24517000" />
       <workItem from="1579933455820" duration="20344000" />
-      <workItem from="1580102445953" duration="1190000" />
+      <workItem from="1580102445953" duration="20547000" />
+      <workItem from="1580189102976" duration="27228000" />
+      <workItem from="1580275344401" duration="15798000" />
     </task>
     <servers />
   </component>

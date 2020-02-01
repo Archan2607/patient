@@ -805,10 +805,8 @@ class FitAndPredict:
                                    self.model_folder, self.model_name)
             X_train = self.preprocessed_input_data[self.feature_names]
             Y_train = self.preprocessed_input_data[self.target_column]
-            predictions, pred_prob = self.learner.train_model(X_train, Y_train)
-
-            # print (np.round(accuracy_score(Y_train, predictions), 4) * 100)
-            # print (np.round(log_loss(Y_train, pred_prob), 2))
+            self.learner.train_model(X_train, Y_train)
+            # predictions, pred_prob
             logging.debug(__name__ + ' : ' + ' End train_model()')
         except Exception as e:
             logging.error(__name__ + ' : ' + ' Error: ' + str(e))
